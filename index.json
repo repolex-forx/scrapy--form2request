@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "form2request",
+  "versions": [
+    {
+      "commit": "a251597d9fa44cbd03736ec1da37f85593dfe820",
+      "tag": "",
+      "parsed_at": "2026-10-20T23:38:37.891973+00:00"
+    }
+  ]
+}
